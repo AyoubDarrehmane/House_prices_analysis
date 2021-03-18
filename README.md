@@ -2,7 +2,7 @@
 
 * Modules utilisés : Pandas, Sklearn, Plotly
 
-*Preprocessing du csv 
+* Preprocessing du csv 
 * Split Test/Train
 * Modèle RandomForestRegressor
 * Modèle PCA
